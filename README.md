@@ -1,4 +1,4 @@
 # Git Tutorial
 
-Easy tutorial
-Change from Github
+- Easy tutorial
+- Change from Github
